@@ -1,6 +1,6 @@
 # Solana-NFT-BOT-AutoFarm-Minting-Bot-v2.2-New-Free-Script
 
-![image](https://user-images.githubusercontent.com/77104733/179020925-00ae8c26-eddc-4ba5-a7ae-2d496fc4dcfd.png)
+![image](https://user-images.githubusercontent.com/77104733/179042652-bd95a121-a259-439a-9e51-805084349d1e.png)
 
 
 Solana Bot with some nice features:
